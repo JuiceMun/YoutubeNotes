@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube Notes",
+    "version": "1.0",
+    "description": "Take notes while watching YouTube videos.",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [],
+    "icons": {
+      "16": "vite.svg",
+      "48": "vite.svg",
+      "128": "vite.svg"
+    }
+  }
+  
