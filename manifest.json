@@ -6,7 +6,13 @@
     "action": {
       "default_popup": "index.html"
     },
-    "permissions": [],
+    "side_panel": {
+      "default_path": "side_panel.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["sidePanel"],
     "icons": {
       "16": "vite.svg",
       "48": "vite.svg",
