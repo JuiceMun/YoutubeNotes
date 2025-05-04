@@ -12,7 +12,7 @@
     "background": {
       "service_worker": "background.js"
     },
-    "permissions": ["sidePanel"],
+    "permissions": ["sidePanel","tabs"],
     "icons": {
       "16": "vite.svg",
       "48": "vite.svg",
